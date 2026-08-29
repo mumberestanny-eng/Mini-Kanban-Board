@@ -1,3 +1,5 @@
+package mainboard.boardengine.boardstyling;
+
 import javax.swing.border.AbstractBorder;
 import java.awt.*;
 

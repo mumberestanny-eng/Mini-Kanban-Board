@@ -1,3 +1,5 @@
+package mainboard.boardengine.boardstyling;
+
 import javax.swing.*;
 import java.awt.*;
 
